@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Tingxuan Chen"
-description              : "This is Tingxuan Chen's academic homepage"
+title                    : "陈庭轩"
+description              : "个人学术主页"
 repository               : "ctxdandan/ctxdandan.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Tingxuan Chen"
+  name             : "陈庭轩"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Central South University"
   location         : "Changsha Hunan"
