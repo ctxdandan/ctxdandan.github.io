@@ -34,9 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2021.09 - 至今*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 博士在读（导师 龙军） 
-- *2018.09 - 2021.06*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士（导师 杨柳）
-- *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 中南大学 软件学院, 湖南长沙, 学士
+- *2021.09 - 至今*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/CSU.svg" width="23pt"></a> 中南大学 计算机学院, 湖南长沙, 博士在读（导师 龙军） 
+- *2018.09 - 2021.06*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/CSU.svg" width="20pt"></a> 中南大学 计算机学院, 湖南长沙, 硕士学位（导师 杨柳）
+- *2014.09 - 2018.06*, <a href="https://www.csu.edu.cn/"><img class="svg" src="/images/CSU.svg" width="20pt"></a> 中南大学 软件学院, 湖南长沙, 学士学位
  
 <span class='anchor' id='-lwzl'></span>
 
