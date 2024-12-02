@@ -81,6 +81,7 @@ redirect_from:
 
 ### 专利
 ---
+- Jun Long, `Tingxuan Chen`, Liu Yang, et al. Simple reflex intelligent agent for crawling literature data and method of crawling literature data: U.S. Patent Application 18/777,105[P]. 2024-11-7.
 - 杨柳, 李国辉, `陈庭轩`, 龙军, 黄金彩. 一种基于超图建模的知识图谱标签预测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=7CDA4DBA9GEDBIHA9CIC9BHA9IAA8DDABHFA9AGE9HEE9DCC)
 - 杨柳, 肖美红, 龙军, `陈庭轩`, 王永恒, 金雄男. 一种知识图谱实体对齐方法.[[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9EGD6CEA9DGC9DGD9IBB5DCACFGAIIIA9HFF9BABCFGA4ACA)
 - 杨柳, 罗帅, `陈庭轩`, 王子冬, 龙军, 黄金彩. 一种基于强化学习的学术主题发现方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9CGB6FBA9GHG9DHE9FIF9BIA9CGH9AIEDGGA9GGG9IGG3ABA) 
