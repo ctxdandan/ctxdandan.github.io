@@ -40,10 +40,15 @@ redirect_from:
  
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 出版物
 
-### 英文
+### 论文
 ---
+
+-	`Tingxuan Chen`, Jun Long, Zidong Wang, Shuai Luo, Jincai Huang, and Liu Yang. THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs[J]. *IEEE Transactions on Knowledge & Data Engineering*, 2024, 36(12): 9374-9387. (CCF A) [[预览]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) [[下载]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) 
+
+-	HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
+[[预览]](https://aclanthology.org/2024.naacl-long.225.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 -	`Tingxuan Chen`, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, and Xiongnan Jin. HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
 [[预览]](https://aclanthology.org/2024.naacl-long.225.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
