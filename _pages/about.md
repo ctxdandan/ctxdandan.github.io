@@ -47,11 +47,10 @@ redirect_from:
 
 -	`Tingxuan Chen`, Jun Long, Zidong Wang, Shuai Luo, Jincai Huang, and Liu Yang. THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs[J]. *IEEE Transactions on Knowledge & Data Engineering*, 2024, 36(12): 9374-9387. (CCF A) [[预览]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) [[下载]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) 
 
--	HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
-[[预览]](https://aclanthology.org/2024.naacl-long.225.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
 -	`Tingxuan Chen`, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, and Xiongnan Jin. HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
 [[预览]](https://aclanthology.org/2024.naacl-long.225.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+
+- Yuchang Deng, Wenti Huang, `Tingxuan Chen`, Jun Long. Separate and Integrate Different Level Reasoning for Event Causality Identification. *2024 International Joint Conference on Neural Networks (IJCNN)*, 2024: 1-8. (CCF C) [[预览]](https://ieeexplore.ieee.org/document/10650503) [[下载]](https://doi.org/10.1109/IJCNN60899.2024.10650503)
 
 -	Jun Long, Junkun Hong, Zidong Wang, `Tingxuan Chen`, Yunfei Chen, and Liu Yang. SPHASE: Multi-Modal and Multi-Branch Surgical Phase Segmentation Framework based on Temporal Convolutional Network. *Proceedings of the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*. 2023: 586-593. (CCF B) 
 [[预览]](https://ieeexplore.ieee.org/abstract/document/10385579) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
