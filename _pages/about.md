@@ -45,6 +45,8 @@ redirect_from:
 ### 论文
 ---
 
+-	`Tingxuan Chen`, Liu Yang, Zidong Wang, and Jun Long. A rule-and query-guided reinforcement learning for extrapolation reasoning in temporal knowledge graphs[J]. *Neural Networks*, 2025, 185(5): 107186. (CCF B) [[预览]](https://doi.org/10.1016/j.neunet.2025.107186) [[下载]](https://doi.org/10.1016/j.neunet.2025.107186)
+
 -	`Tingxuan Chen`, Jun Long, Zidong Wang, Shuai Luo, Jincai Huang, and Liu Yang. THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs[J]. *IEEE Transactions on Knowledge & Data Engineering*, 2024, 36(12): 9374-9387. (CCF A) [[预览]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) [[下载]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) 
 
 -	`Tingxuan Chen`, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, and Xiongnan Jin. HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
