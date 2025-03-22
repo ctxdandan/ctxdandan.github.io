@@ -44,41 +44,46 @@ redirect_from:
 
 ### 论文
 ---
+- Zidong Wang, Liu Yang, `Tingxuan Chen` and Jun Long. Clustering matrix regularization guided hierarchical graph pooling[J]. *Knowledge-Based Systems*, 2025: 113108. (CCF C) [[预览]](https://www.sciencedirect.com/science/article/pii/S0950705125001558) [[下载]](https://www.sciencedirect.com/science/article/pii/S0950705125001558)
+  
+- `Tingxuan Chen`, Liu Yang, Zidong Wang, Shuai Luo and Jun Long. Enhancing Extrapolation Reasoning on Temporal Knowledge Graphs with Logic Rules and Queries[C]. *ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. IEEE, 2025: 1-5. (CCF B) [[预览]](https://ieeexplore.ieee.org/abstract/document/10889675/) [[下载]](https://ieeexplore.ieee.org/abstract/document/10889675/)
+
+- `Tingxuan Chen`, Liu Yang, Zidong Wang, Guohui Li and Jun Long. Enhancing Session-Based Recommendation with Hypergraph Motifs and Contrastive Learning[C]. *ICASSP 2025-2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)*. IEEE, 2025: 1-5. (CCF B) [[预览]](https://ieeexplore.ieee.org/abstract/document/10890368) [[下载]](https://ieeexplore.ieee.org/abstract/document/10890368)
 
 -	`Tingxuan Chen`, Liu Yang, Zidong Wang, and Jun Long. A rule-and query-guided reinforcement learning for extrapolation reasoning in temporal knowledge graphs[J]. *Neural Networks*, 2025, 185(5): 107186. (CCF B) [[预览]](https://doi.org/10.1016/j.neunet.2025.107186) [[下载]](https://doi.org/10.1016/j.neunet.2025.107186)
 
 -	`Tingxuan Chen`, Jun Long, Zidong Wang, Shuai Luo, Jincai Huang, and Liu Yang. THCN: A Hawkes Process Based Temporal Causal Convolutional Network for Extrapolation Reasoning in Temporal Knowledge Graphs[J]. *IEEE Transactions on Knowledge & Data Engineering*, 2024, 36(12): 9374-9387. (CCF A) [[预览]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) [[下载]](https://doi.ieeecomputersociety.org/10.1109/TKDE.2024.3474051) 
 
--	`Tingxuan Chen`, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, and Xiongnan Jin. HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
+-	`Tingxuan Chen`, Jun Long, Liu Yang, Zidong Wang, Yongheng Wang, and Xiongnan Jin. HTCCN: Temporal Causal Convolutional Networks with Hawkes Process for Extrapolation Reasoning in Temporal Knowledge Graphs[C]. *Proceedings of the 2024 Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)*, 2024: 4056-4066. (CCF B)  
 [[预览]](https://aclanthology.org/2024.naacl-long.225.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-- Yuchang Deng, Wenti Huang, `Tingxuan Chen`, Jun Long. Separate and Integrate Different Level Reasoning for Event Causality Identification. *2024 International Joint Conference on Neural Networks (IJCNN)*, 2024: 1-8. (CCF C) [[预览]](https://ieeexplore.ieee.org/document/10650503) [[下载]](https://doi.org/10.1109/IJCNN60899.2024.10650503)
+- Yuchang Deng, Wenti Huang, `Tingxuan Chen`, Jun Long. Separate and Integrate Different Level Reasoning for Event Causality Identification[C]. *2024 International Joint Conference on Neural Networks (IJCNN)*, 2024: 1-8. (CCF C) [[预览]](https://ieeexplore.ieee.org/document/10650503) [[下载]](https://doi.org/10.1109/IJCNN60899.2024.10650503)
 
--	Jun Long, Junkun Hong, Zidong Wang, `Tingxuan Chen`, Yunfei Chen, and Liu Yang. SPHASE: Multi-Modal and Multi-Branch Surgical Phase Segmentation Framework based on Temporal Convolutional Network. *Proceedings of the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*. 2023: 586-593. (CCF B) 
+-	Jun Long, Junkun Hong, Zidong Wang, `Tingxuan Chen`, Yunfei Chen, and Liu Yang. SPHASE: Multi-Modal and Multi-Branch Surgical Phase Segmentation Framework based on Temporal Convolutional Network[C]. *Proceedings of the 2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)*. 2023: 586-593. (CCF B) 
 [[预览]](https://ieeexplore.ieee.org/abstract/document/10385579) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
 
--	Meihong Xiao, `Tingxuan Chen`, Zidong Wang, Jun Long, Jincai Huang, and Liu Yang. Pacific Rim International Conference on Artificial Intelligence. *Proceedings of the 2023 Pacific Rim International Conference on Artificial Intelligence (PRICAI)*. 2023: 389–400. (CCF C)  
+-	Meihong Xiao, `Tingxuan Chen`, Zidong Wang, Jun Long, Jincai Huang, and Liu Yang. Pacific Rim International Conference on Artificial Intelligence[C]. *Proceedings of the 2023 Pacific Rim International Conference on Artificial Intelligence (PRICAI)*. 2023: 389–400. (CCF C)  
 [[预览]](https://link.springer.com/chapter/10.1007/978-981-99-7019-3_36) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
-- Liu Yang, Jie Zhao, Jun Long, Jincai Huang, Zidong Wang, and `Tingxuan Chen*`. Path-KGE: Preference-Aware Knowledge Graph Embedding with Path Semantics for Link Prediction. *Proceedings of the 2023 International Conference on Web Information Systems Engineering (WISE)*. 2023: 409-424. (CCF C)  
+- Liu Yang, Jie Zhao, Jun Long, Jincai Huang, Zidong Wang, and `Tingxuan Chen*`. Path-KGE: Preference-Aware Knowledge Graph Embedding with Path Semantics for Link Prediction[C]. *Proceedings of the 2023 International Conference on Web Information Systems Engineering (WISE)*. 2023: 409-424. (CCF C)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-981-99-7254-8_32) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
 
-- `Tingxuan Chen`, Jun Long, Liu Yang, Guohui Li, Shuai Luo, and Meihong Xiao. Joint Embedding of Local Structures and Evolutionary Patterns for Temporal Link Prediction. *Proceedings of the 2023 International Conference on Advanced Data Mining and Applications (ADMA)*. 2023: 107-121. (CCF C)  
+- `Tingxuan Chen`, Jun Long, Liu Yang, Guohui Li, Shuai Luo, and Meihong Xiao. Joint Embedding of Local Structures and Evolutionary Patterns for Temporal Link Prediction[C]. *Proceedings of the 2023 International Conference on Advanced Data Mining and Applications (ADMA)*. 2023: 107-121. (CCF C)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-031-46664-9_8) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
 
-- Liu Yang, Xin Yin, Jun Long, `Tingxuan Chen`, Jie Zhao, and Wenti Huang. Spatio-temporal aware knowledge graph embedding for recommender systems. *Proceedings of the 2022 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)*. 2022:896-902. (CCF C)  
+- Liu Yang, Xin Yin, Jun Long, `Tingxuan Chen`, Jie Zhao, and Wenti Huang. Spatio-temporal aware knowledge graph embedding for recommender systems[C]. *Proceedings of the 2022 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)*. 2022:896-902. (CCF C)  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/10070740) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
 
--	Liu Yang, Ruo Yang, `Tingxuan Chen*`, Hongxiao Fei, Jiuqi Tang. MF-TagRec: Multi-feature Fused Tag Recommendation for GitHub. *Proceedings of the 2022 Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022: 17-31. (CCF C)  
+-	Liu Yang, Ruo Yang, `Tingxuan Chen*`, Hongxiao Fei, Jiuqi Tang. MF-TagRec: Multi-feature Fused Tag Recommendation for GitHub[C]. *Proceedings of the 2022 Pacific Rim International Conference on Artificial Intelligence (PRICAI)*, 2022: 17-31. (CCF C)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-031-20868-3_2) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
 
--	Liu Yang, Bingyuan Xie, Jun Long, Wenti Huang, Shuyi Liu, and `Tingxuan Chen*`. Attending to SPARQL Logs for Knowledge Representation Learning. *Proceedings of the 2022 International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2022: 386-399. (CCF C)  
+-	Liu Yang, Bingyuan Xie, Jun Long, Wenti Huang, Shuyi Liu, and `Tingxuan Chen*`. Attending to SPARQL Logs for Knowledge Representation Learning[C]. *Proceedings of the 2022 International Conference on Knowledge Science, Engineering and Management (KSEM)*. 2022: 386-399. (CCF C)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_30) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
 
-- Liu Yang, Junyu Zhang, `Tingxuan Chen`, Wuji Lei, and Xiaolong Liu. Predicting Residual Stress by Finding Peak Shape Using Artificial Neural Networks. *Proceedings of the 2020 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)*. 2020: 633-640. (CCF C)  
+- Liu Yang, Junyu Zhang, `Tingxuan Chen`, Wuji Lei, and Xiaolong Liu. Predicting Residual Stress by Finding Peak Shape Using Artificial Neural Networks[C]. *Proceedings of the 2020 IEEE Intl Conf on Parallel \& Distributed Processing with Applications, Big Data \& Cloud Computing, Sustainable Computing \& Communications, Social Computing \& Networking (ISPA/BDCloud/SocialCom/SustainCom)*. 2020: 633-640. (CCF C)  
 [[网页]](https://ieeexplore.ieee.org/abstract/document/9444001) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
 
--	Liu Yang, `Tingxuan Chen`, Junyu Zhang, Jun Long, Zhigang Hu, and Victor S. Fruited-Forest: A Reachability Querying Method Based on Spanning Tree Modelling of Reduced DAG. *APWEB-WAIM*. 2020: 145-153. (CCF C)  
+-	Liu Yang, `Tingxuan Chen`, Junyu Zhang, Jun Long, Zhigang Hu, and Victor S. Fruited-Forest: A Reachability Querying Method Based on Spanning Tree Modelling of Reduced DAG[C]. *APWEB-WAIM*. 2020: 145-153. (CCF C)  
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-030-60259-8_11) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
 
 ### 专利
